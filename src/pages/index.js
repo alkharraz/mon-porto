@@ -56,7 +56,7 @@ export default ({ data }) => {
             />
           </a>
           <a
-            href="https://linkedin.com/in/mohamed-alkharraz-3528021a4/"
+            href="https://www.linkedin.com/in/mohamed-alkharraz/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -89,7 +89,7 @@ export default ({ data }) => {
             />
           </a>
           <a
-            href="mailto:m.alkharraz8@gmail.com"
+            href="mailto:alkharraz.mohd@gmaill.com"
             target="_blank"
             rel="noopener noreferrer"
           >

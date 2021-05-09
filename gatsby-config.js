@@ -19,7 +19,7 @@ module.exports = {
     unemployed: true,
     designations: [
       `Coding Monkey`,
-      `Jedi Master`,
+      `Martial Artist`,
       `Binary Sunset Enthusiast`,
       `Moisture Farmer`,
     ],
@@ -76,7 +76,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Mohammed Alkharraz's Personal Site`,
-        short_name: `J.Doe`,
+        short_name: `Mohd AlKharraz`,
         description: `This is my personal site.`,
         start_url: `/`,
         background_color: `#fff`,

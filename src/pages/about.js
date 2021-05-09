@@ -86,7 +86,7 @@ export default ({ data }) => {
                   like what you <Link to="/resume">see</Link>, let's get
                   in&nbsp;
                   <a
-                    href="mailto:red.five@rebellion.com"
+                    href="mailto:alkharraz.mohd@gmail.com"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -102,19 +102,12 @@ export default ({ data }) => {
             Here are a couple of books from my reading list:
           </h5>
           <ul style={{ fontSize: "0.9rem", listStyle: "none" }}>{bookLinks}</ul>
-          <h5 className="watch-list-title pt-4">
-            Here are a couple of shows from my watch list:
-          </h5>
-          <ul style={{ fontSize: "0.9rem", listStyle: "none" }}>{showLinks}</ul>
-          <h5 className="watch-list-title pt-4">
-            Here are a couple of movies from my watch list:
-          </h5>
           <p>
             <i>...waaaay too many to list.</i>
           </p>
         </article>
       </Container>
-    </PageLayout>
+    </PageLayout> 
   )
 }
 
