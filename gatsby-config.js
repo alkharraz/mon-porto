@@ -25,7 +25,7 @@ module.exports = {
     ],
     readingList: [
       {
-        title: `Sapiens: A Brief History of Humankind`,
+        title: `Saxxxxxxpiens: A Brief  of Humankind`,
         author: `Yuval Noah Harari`,
         link: `https://www.goodreads.com/book/show/23692271-sapiens`,
       },
