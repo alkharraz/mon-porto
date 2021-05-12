@@ -18,7 +18,7 @@ module.exports = {
       process.env.URL || process.env.DEPLOY_URL || `http://localhost:8000`,
     unemployed: true,
     designations: [
-      `Coding Monkey`,
+      `Hmmmm`,
       `Martial Artist`,
       `Binary Sunset Enthusiast`,
       `Moisture Farmer`,
