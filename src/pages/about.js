@@ -49,26 +49,10 @@ export default ({ data }) => {
             ))}
           </p>
           <p className="i-5 mt-4 pt-2">
-            Hello there! My name is <b>{`${author}`}</b>. I am a&nbsp;
-            <a
-              href="https://www.dictionary.com/e/fictional-characters/padawan/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              padawan
-            </a>
-            &nbsp;
-            <b>{occupation}</b> discovering the ways of the code. Lorem ipsum
-            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-            veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat.
+            I'm <b>{`${author}`}</b>, I am a graduate student in the department of Mechanical Engineering at the University of Bahrain. My primary interests are Thermodynamics.... *need editing*  working,ldfmslgkojasdfjhakjldsfhgjksdfhgujsdhfuijkghsdfjkghsdkjfhngksjdfhgiusdbhfkjgshdifughsdijfgoisdhfogh ;))
           </p>
           <p className="i-5">
-            In my spare time, Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-            laboris nisi ut aliquip ex ea commodo consequat.
+            In my spare time, I am often reading, doing martail arts, cooking, discovering new shit.sS...
           </p>
           <p className="i-5">
             Check out my <Link to="/projects">projects</Link> to see what I've
