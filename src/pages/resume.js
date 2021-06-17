@@ -14,7 +14,7 @@ export default ({ data }) => {
       <SEO title="Resume" />
       <PageTitle title="Resume">
         &nbsp;
-        <a href="../../resume.pdf" target="_blank" download>
+        <a href="../../Resume-Mohd_Alkharraz.pdf" target="_blank" download>
           <FontAwesomeIcon
             style={{ fontSize: "2rem" }}
             icon={["fas", "file-download"]}
@@ -42,7 +42,7 @@ export const query = graphql`
   query {
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/work/" } }
-      sort: { fields: [frontmatter___startDate], order: DESC }
+      sort: { fields: [frontmatter___startDate], order: ASC }
     ) {
       edges {
         node {
@@ -53,7 +53,7 @@ export const query = graphql`
             location
             position
             tags
-            startDate(formatString: "MMMM")
+            startDate(formatString: "MMMM, YYYY")
             endDate(formatString: "MMMM, YYYY")
           }
           fields {

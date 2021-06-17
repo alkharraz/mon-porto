@@ -6,6 +6,16 @@ import { SEO } from "../utils"
 import { Container, Image } from "react-bootstrap"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
+/** line26
+* <Image
+          width="150"
+          height="150"
+          fluid
+          src={dark ? `../../icons/darth-vader.png` : `../../icons/r2-d2.png`}
+          alt={dark ? "Darth Vader" : "R2-D2"}
+        /> 
+ */
+
 export default ({ data }) => {
   const { unemployed, firstName, lastName, occupation } = data.site.siteMetadata
   const { dark } = useContext(ThemeContext)
@@ -13,16 +23,10 @@ export default ({ data }) => {
     <PageLayout>
       <SEO title="Home" />
       <Container className="text-center pt-5 mt-5" fluid>
-        <Image
-          width="150"
-          height="150"
-          fluid
-          src={dark ? `../../icons/darth-vader.png` : `../../icons/r2-d2.jpg`}
-          alt={dark ? "Darth Vader" : "R2-D2"}
-        />
+        
         {unemployed && (
           <p className="mt-2">
-            <b> Hey! I am looking for new opportunities :)</b>
+            <b> Hey! I am looking for new opportunities</b>
           </p>
         )}
         <Container className="py-0 my-0">
@@ -37,13 +41,23 @@ export default ({ data }) => {
           </h1>
           <p>
             <i>
-              {occupation} graduate,&nbsp;
+              I'm a {occupation} graduate, with interests in Energy Conversion, Fluid and Thermal Systems, Design and Manufacture. I aspire to grow academically and gain experience as I continue this journey.&nbsp;
               
+            </i>
+            <i> 
+             I encourage you to download my resume and look through my website. Do not hesitate to contact me for inquiries.
             </i>
           </p>
         </Container>
         <hr className="my-3 w-25" />
         <div className="d-md-inline-flex icons-container">
+        <a href="../../Resume-Mohd_Alkharraz.pdf" target="_blank" download>
+            <FontAwesomeIcon
+              icon={["fas", "file-alt"]}
+              className="icons file"
+              title="Resume"
+            />
+          </a>
           <a
             href="https://www.github.com/alkharraz"
             target="_blank"
@@ -67,28 +81,6 @@ export default ({ data }) => {
             />
           </a>
           <a
-            href="https://www.freecodecamp.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FontAwesomeIcon
-              icon={["fab", "free-code-camp"]}
-              className="icons fcc"
-              title="FreeCodeCamp"
-            />
-          </a>
-          <a
-            href="https://www.hackerrank.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FontAwesomeIcon
-              icon={["fab", "hackerrank"]}
-              className="icons hr"
-              title="Hackerrank"
-            />
-          </a>
-          <a
             href="mailto:alkharraz.mohd@gmaill.com"
             target="_blank"
             rel="noopener noreferrer"
@@ -97,13 +89,6 @@ export default ({ data }) => {
               icon={["fas", "envelope"]}
               className="icons mail"
               title="e-mail"
-            />
-          </a>
-          <a href="../../resume.pdf" target="_blank" download>
-            <FontAwesomeIcon
-              icon={["fas", "file-alt"]}
-              className="icons file"
-              title="Resume"
             />
           </a>
         </div>
