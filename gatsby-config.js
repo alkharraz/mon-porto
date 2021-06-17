@@ -82,7 +82,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `${__dirname}/static/blackhole.ico`, // This path is relative to the root of the site.
+        icon: `${__dirname}/static/blackhole.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-offline`,
