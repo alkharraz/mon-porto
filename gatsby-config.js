@@ -4,6 +4,7 @@
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
 
+
 module.exports = {
   /* Your site config here */
   siteMetadata: {
@@ -21,7 +22,7 @@ module.exports = {
       `Mechanical Engineer`,
       `Martial Artist`,
       `Bookworm`,
-      `Knowledge Seeker`,
+      `Epistemophile`,
     ],
     readingList: [
       {
