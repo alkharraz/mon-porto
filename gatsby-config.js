@@ -18,10 +18,10 @@ module.exports = {
       process.env.URL || process.env.DEPLOY_URL || `http://localhost:8000`,
     unemployed: true,
     designations: [
-      `Hmmmm`,
+      `Mechanical Engineer`,
       `Martial Artist`,
-      `Binary Sunset Enthusiast`,
-      `Moisture Farmer`,
+      `Bookworm`,
+      `Knowledge Seeker`,
     ],
     readingList: [
       {
@@ -82,7 +82,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `${__dirname}/static/favicon.ico`, // This path is relative to the root of the site.
+        icon: `${__dirname}/static/blackhole.ico`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-offline`,
