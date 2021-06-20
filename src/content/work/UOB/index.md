@@ -7,6 +7,8 @@ startDate: "2017-09-14"
 endDate: "2021-06-03"
 ---
 
+#Education
+
 - Mechanical Engineering, Bachelor of Science, 2021</p>
 
 * Cumlative GPA: 3.49/4 </p>
