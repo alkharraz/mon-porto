@@ -3,7 +3,17 @@ import { PageLayout, PageTitle } from "../components"
 import { Container, Image } from "react-bootstrap"
 import { Link, graphql } from "gatsby"
 import { ThemeContext, SEO } from "../utils"
+/*
+  <Image
+          rounded
+          width="140"
+          height="140"
+          src={`../../icons/luke-${toString()}.png`}
+          alt={author}
+        />
 
+
+*/
 export default ({ data }) => {
   const MediaLink = ({ title, author, link }) => (
     <li key={title} style={{ color: "gray" }}>
@@ -32,13 +42,7 @@ export default ({ data }) => {
       <SEO title="About Me" />
       <PageTitle title="About Me" />
       <Container>
-        <Image
-          rounded
-          width="140"
-          height="140"
-          src={`../../icons/luke-${toString()}.png`}
-          alt={author}
-        />
+      
         <article className="w-75 m-auto pt-2 text-justify">
           <p className="text-center">
             {designations.map((attr, i) => (
