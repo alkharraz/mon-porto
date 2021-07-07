@@ -3,7 +3,8 @@ title: "Green Cooling Alternative Cycle Using Evaporative System with Liquid Des
 tags: ["Project", "Thermodynamics", "Air Conditioning", "Enviromental Friendly",]
 date: "2021-05-13"
 ---
-The **Liquid Desiccant Air Conditioner** (**LDAC**) is my Senior Design Project that I and my team worked on at the University of Bahrain. This section highlights one of the main projects that I worked on in my university years.
+The **Liquid Desiccant Air Conditioner** (**LDAC**) is my Senior Design Project that I and my team worked on at the University of Bahrain. The project was awarded the best project in the department of mechanical engineering for the year 2021, and awarded by Ebrahim Khalil Kanoo for Engineering Excellence. 
+ 
 
 <div align="center">
 <iframe 
@@ -17,6 +18,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 </div>
+
 
 The Liquid Desiccant Air Conditioning (LDAC) is a combination of an evaporative chiller and a dehumidifier. The dehumidifier uses a chemical solution of water mixed with CaCl2 that absorbs
 moisture from the air allowing the cooling unit to operate efficiently in a humid environment like Bahrain’s. After that, the evaporative cooler lowers the air’s temperature by interacting with water spray. The sequence of execution was as followed:-
