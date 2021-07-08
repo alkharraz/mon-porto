@@ -54,8 +54,8 @@ body {
 
 // light mode
 .custom-control-input ~ .custom-control-label::before {
-  border-color: $blue;
-  background-color: $blue;
+  border-color: $hover-blue;
+  background-color: $hover-blue;
 }
 
 .custom-switch .custom-control-input ~ .custom-control-label::after {
