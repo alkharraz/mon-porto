@@ -12,12 +12,12 @@ module.exports = {
     author: `Mohammed Alkharraz`,
     firstName: `Mohammed`,
     lastName: `Alkharraz`,
-    description: `Mohammed Alkharraz's personal site`,
+    description: `Mohammed Alkharraz's Online Portfolio`,
     occupation: `Mechanical Engineer`,
     keywords: [`Mohammed`, `Alkharraz`, `Personal`, `Blog`, `Resume`, `Projects`, `Work`],
     siteUrl:
       process.env.URL || process.env.DEPLOY_URL || `http://localhost:8000`,
-    unemployed: true,
+    unemployed: false,
     designations: [
       `Mechanical Engineer`,
       `Martial Artist`,

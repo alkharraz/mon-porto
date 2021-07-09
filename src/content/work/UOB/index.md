@@ -23,3 +23,19 @@ Electrical Engineering, Fluid Mechanics, Kinematics and Dynamics of Machinery,
 Computer Applications in Mech. Eng., Design of Mechanical Elements, Measurement
 and Instrumentation, Heat Transfer, Vibration</p>
 
+ ##### Other certificates: 
+- Machine Learning — 2021 
+  - Stanford University - Coursera </p>
+
+- Engineering Project Management Specialization — 2020 
+  - Rice University - Coursera </p>
+
+- The Finite Element Method for Problems in Physics — 2020
+  - University of Michigan - Coursera </p>
+
+- MEDIC First Aid — 2018 </p>
+- Basics of Arduino — 2014 </p>
+
+
+
+

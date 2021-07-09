@@ -5,7 +5,7 @@ date: "2021-05-13"
 ---
 The **Liquid Desiccant Air Conditioner** (**LDAC**) is my Senior Design Project that I and my team worked on at the University of Bahrain. The project was awarded the best project in the department of mechanical engineering for the year 2021, and awarded by Ebrahim Khalil Kanoo for Engineering Excellence. 
  
-
+<p>&nbsp;</p>
 
 <div align="center">
 <iframe 
@@ -21,8 +21,7 @@ allowfullscreen>
 
 </div>
 
-
-
+<p>&nbsp;</p>
 
 The Liquid Desiccant Air Conditioning (LDAC) is a combination of an evaporative chiller and a dehumidifier. The dehumidifier uses a chemical solution of water mixed with CaCl2 that absorbs
 moisture from the air allowing the cooling unit to operate efficiently in a humid environment like Bahrain’s. After that, the evaporative cooler lowers the air’s temperature by interacting with water spray. The sequence of execution was as followed:-
@@ -38,9 +37,10 @@ comprising, flow rate, temperature, and relative humidity throughout the LDAC cy
 
 As a final point, the **dehumidifying unit reduced the relative humidity by 43.3%**, resulting in a **4 times improvement in COP** compared to the Evaporative unit alone. Moreover, if a superior dehumidification procedure is carried out under a 45% CaCl2 concentration, this project's potential COP is expected to improve by 9 times rather than the previous value.
 
-
+<p>&nbsp;</p>
 
 <p align ="center">
    
   <img src="https://i.ibb.co/W2WkNY4/p1.jpg"  width="560" class="center"/>
+  &nbsp;
 </p>
