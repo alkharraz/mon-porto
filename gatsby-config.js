@@ -6,7 +6,7 @@
 
 
 module.exports = {
-  /* Your site config here */
+  /* Your site config here t */
   siteMetadata: {
     title: `Mohammed Alkharraz`,
     author: `Mohammed Alkharraz`,
