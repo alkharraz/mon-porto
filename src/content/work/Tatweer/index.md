@@ -1,9 +1,9 @@
 ---
 company: "Tatweer Petroleum"
 location: "Bahrain"
-position: "Artificial Intelligence Engineer"
-tags: ["AI", "R programming"]
-startDate: "2021-08-01"
+position: "AI Engineer and Data Science Intern"
+tags: ["AI", "Oil and Gas"]
+startDate: "2021-09-01"
 
 ---
 

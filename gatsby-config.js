@@ -22,7 +22,7 @@ module.exports = {
       `Mechanical Engineer`,
       `Martial Artist`,
       `Bookworm`,
-      `Epistemophile`,
+      `Exellent Chef`, 
     ],
     readingList: [
       {

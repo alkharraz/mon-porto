@@ -42,7 +42,7 @@ export const query = graphql`
   query {
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/work/" } }
-      sort: { fields: [frontmatter___startDate], order: ASC }
+      sort: { fields: [frontmatter___startDate], order: DESC }
     ) {
       edges {
         node {
