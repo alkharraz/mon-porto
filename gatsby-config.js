@@ -59,7 +59,8 @@ module.exports = {
       },
     ],
   },
-  plugins: [{
+  plugins: [
+    {/*
     resolve: `gatsby-plugin-google-analytics`,
     options: {
       // You can add multiple tracking ids and a pageview event will be fired for all of them.
@@ -72,7 +73,7 @@ module.exports = {
         // Puts tracking script in the head instead of the body
         head: true,
       },
-    },
+    },*/
   },
     
     `gatsby-plugin-preload-link-crossorigin`,
