@@ -60,20 +60,16 @@ module.exports = {
     ],
   },
   plugins: [
-    {/*
+    {
     resolve: `gatsby-plugin-google-analytics`,
     options: {
       // You can add multiple tracking ids and a pageview event will be fired for all of them.
-      trackingIds: [
-        //"G-TE2PSWEM5R", // Google Analytics / GA
-        "UA-177274780-1",
-      ],
+      trackingId: "UA-177274780-1", //"G-TE2PSWEM5R", // Google Analytics / GA 
       // This object is used for configuration specific to this plugin
-      pluginConfig: {
-        // Puts tracking script in the head instead of the body
-        head: true,
-      },
-    },*/
+     
+      // Puts tracking script in the head instead of the body
+      head: true,
+    },
   },
     
     `gatsby-plugin-preload-link-crossorigin`,
