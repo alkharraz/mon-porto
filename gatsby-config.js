@@ -8,11 +8,11 @@
 module.exports = {
   /* Your site config here test */
   siteMetadata: {
-    title: `Mohammed Alkharraz`,
-    author: `Mohammed Alkharraz`,
+    title: `Mohamed Alkharraz`,
+    author: `Mohamed Alkharraz`,
     firstName: `Mohammed`,
     lastName: `Alkharraz`,
-    description: `Mohammed Alkharraz's Online Portfolio`,
+    description: `Mohamed Alkharraz's Online Portfolio`,
     occupation: `Mechanical Engineer`,
     keywords: [`Mohammed`, `Alkharraz`, `Personal`, `Blog`, `Resume`, `Projects`, `Work`],
     siteUrl:
@@ -87,7 +87,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Mohammed Alkharraz's Personal Site`,
+        name: `Mohamed Alkharraz's Personal Site`,
         short_name: `Mohd AlKharraz`,
         description: `This is my personal site.`,
         start_url: `/`,
