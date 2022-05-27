@@ -2,9 +2,11 @@
 company: "Tatweer Petroleum"
 location: "Bahrain"
 position: "AI Engineer and Data Science Intern"
-tags: ["AI", "Oil and Gas"]
+tags: ["AI", "Oil and Gas", "Machine Learning", "Data Science", "Automation", "SCADA"]
 startDate: "2021-09-01"
 
 ---
 
-- Working on fun stuff!!
+- Developed machine learning models
+- Created business intelligence dashboards, visualizations, and reports to provide actionable insight
+- Increased operations productivity

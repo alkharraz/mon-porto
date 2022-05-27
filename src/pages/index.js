@@ -41,7 +41,7 @@ export default ({ data }) => {
           </h1>
           <p>
             <i>
-              I'm a {occupation} graduate, with interests in Energy Conversion, Fluid and Thermal Systems, Design and Manufacture. I aspire to grow academically and gain experience as I continue this journey.&nbsp;
+            Dedicated junior Mechanical Engineering graduated from the University of Bahrain with primary interests in mechanical design, fluid and thermal systems, simulation and Artificial Intelligence. I was awarded first place for the best mechanical engineering graduation project. Strong ability to collaborate and work in a team environment on multi-disciplinary projects. My expertise in Artificial Intelligence enable me to solve complex engineering problems in a creative way.
               
             </i>
             <i> 
@@ -70,7 +70,7 @@ export default ({ data }) => {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/mohamed-alkharraz/"
+            href="https://www.linkedin.com/in/malkharraz/"
             target="_blank"
             rel="noopener noreferrer"
           >
