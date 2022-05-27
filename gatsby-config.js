@@ -21,7 +21,7 @@ module.exports = {
     designations: [
       `Mechanical Engineer`,
       `Martial Artist`,
-      `Exellent Chef *debatable*`, S
+      `Exellent Chef *debatable*`,
     ],
     readingList: [
       {
