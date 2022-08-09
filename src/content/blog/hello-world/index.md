@@ -6,6 +6,4 @@ author: "Mohd"
 date: "2020-05-01"
 ---
 
-Hi! visit https://alkharraz.me/
-
-mohd
+visit https://alkharraz.me/

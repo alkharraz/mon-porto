@@ -2,7 +2,7 @@
 company: "Universiy of Bahrain"
 location: "Isa Town, Bahrain"
 position: "Mechanical Engineering"
-tags: ["AutoCAD", "Autodesk Inventor", "C++", "pyhton", "MATLAB", "EES"]
+tags: ["AutoCAD", "Autodesk Inventor", "C++", "python", "MATLAB", "Simulation"]
 startDate: "2017-09-14"
 endDate: "2021-08-03"
 ---
