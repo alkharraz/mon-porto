@@ -41,7 +41,7 @@ export default ({ data }) => {
           </h1>
           <p>
             <i>
-            Dedicated junior Mechanical Engineering graduated from the University of Bahrain with primary interests in mechanical design, fluid and thermal systems, simulation and Artificial Intelligence. I was awarded first place for the best mechanical engineering graduation project. Strong ability to collaborate and work in a team environment on multi-disciplinary projects. My expertise in Artificial Intelligence enable me to solve complex engineering problems in a creative way.
+            Dedicated junior Automation and Software Engineer graduated from the University of Bahrain with primary interests in SCADA systems, optimization systems, IOT,  Machine Learning and Artificial Intelligence. I was awarded first place for the best mechanical engineering graduation project. Strong ability to collaborate and work in a team environment on multi-disciplinary projects. My expertise in Artificial Intelligence enable me to solve complex engineering problems in a creative way.
               
             </i>
             <i> 
