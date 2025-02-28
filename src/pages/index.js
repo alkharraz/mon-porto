@@ -41,7 +41,7 @@ export default ({ data }) => {
           </h1>
           <p>
             <i>
-            Dedicated junior Automation and Software Engineer graduated from the University of Bahrain with primary interests in SCADA systems, optimization systems, IOT,  Machine Learning and Artificial Intelligence. I was awarded first place for the best mechanical engineering graduation project. Strong ability to collaborate and work in a team environment on multi-disciplinary projects. My expertise in Artificial Intelligence enable me to solve complex engineering problems in a creative way.
+            Dedicated Automation and Software Engineer with expertise in oil and gas, production optimization systems, Data Analytics, AI, ML, SCADA systems, OT, IR 4.0, and IoT. Experience of working in Bahrain & Saudi Arabia. Strong ability to collaborate and work in a team environment on multi-disciplinary projects. Eager to contribute my technical and interpersonal expertise, in problem solving and delivering impactful results. My expertise in Artificial Intelligence enable me to solve complex engineering problems in a creative way.
               
             </i>
             <i> 

@@ -53,7 +53,7 @@ export default ({ data }) => {
             ))}
           </p>
           <p className="i-5 mt-4 pt-2">
-          I'm <b>{`${author}`}</b>, a dedicated graduate student in the department of Mechanical Engineering in 2021 at the University of Bahrain. Most of my work and project experience has involved both software and hardware. I created this online portfolio and resume to showcase the projects I have worked on.
+          I'm <b>{`${author}`}</b>, a dedicated Automation and Software Engineer. The majority of my work and project experience encompasses a blend of software and hardware development, alongside expertise in Data Analytics, Artificial Intelligence (AI), and Machine Learning (ML). I created this online portfolio and resume to highlight my skills and expertise, as demonstrated through both the professional and personal projects I’ve worked on.
             </p>
           <p className="i-5">
           In my spare time, I tend to read, I like to read on various topics related to science and engineering and other genres too. I also do martial arts, and I won 1st place in the Koreas open champion ship.
