@@ -1,7 +1,7 @@
 {
   "name": "mon-porto",
   "version": "2.0.0",
-  "description": "Mohammed Alkharraz's portfolio",
+  "description": "Mohamed Alkharraz's portfolio",
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve",
